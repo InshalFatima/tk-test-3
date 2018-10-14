@@ -1,0 +1,69 @@
+/* write your CSS here */
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.book-store{
+    color: #00a3ea;
+    font-weight:bold; 
+    font-size: 20px; 
+}
+.para{
+    color: black;
+font-weight:initial; 
+font-size: 13px;
+}
+.sub{
+    color: #445c84;
+    font-weight:bold;
+}
+div{
+    margin: 7px;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-subtitle{
+display: inline;
+}
+.price{
+    color: #76b66c;
+    font-weight: bold;
+}
+.card-link{
+    color: #445c84;
+    font-weight: bold;
+}
+.breadcrumb-item{
+    color: #00547a;
+}
+.breadcrumb{
+    background-color: #d1eefb;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+.timer{
+    color: #00547a;
+    font-weight: bold;
+}
+.image-div{
+    display: block;
+    justify-content: right;
+}
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+.card-body{
+    display: flex;
+    
+}
+ /*.card-body > .image-div {
+display: flex;
+flex-direction: row;
+
+}*/
+
+
